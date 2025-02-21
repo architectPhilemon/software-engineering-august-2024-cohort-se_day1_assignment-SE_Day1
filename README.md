@@ -56,4 +56,4 @@ It's important in AI models is to improve accuracy and relevance by providing cl
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
   "Tell me about the first president of Kenya"
-  "Summarize an autobiography of Mzee Jomo Kenyatta
+  "Summarize an autobiography of Mzee Jomo Kenyatta"
